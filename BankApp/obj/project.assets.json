@@ -8,19 +8,19 @@
     "net9.0": []
   },
   "packageFolders": {
-    "C:\\Users\\RsLogik\\.nuget\\packages\\": {}
+    "C:.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RsLogik\\Desktop\\Доки\\CV\\Hitachi Energy(.net)\\BankApp\\BankApp.csproj",
+      "projectUniqueName": "C:BankApp.csproj",
       "projectName": "BankApp",
-      "projectPath": "C:\\Users\\RsLogik\\Desktop\\Доки\\CV\\Hitachi Energy(.net)\\BankApp\\BankApp.csproj",
-      "packagesPath": "C:\\Users\\RsLogik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RsLogik\\Desktop\\Доки\\CV\\Hitachi Energy(.net)\\BankApp\\obj\\",
+      "projectPath": "C:BankApp.csproj",
+      "packagesPath": "C:.nuget\\packages\\",
+      "outputPath": "C:obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\RsLogik\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
