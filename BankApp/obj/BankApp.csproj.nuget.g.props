@@ -10,6 +10,6 @@
     <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">6.13.0</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="C:\Users\RsLogik\.nuget\packages\" />
+    <SourceRoot Include="C:.nuget\packages\" />
   </ItemGroup>
 </Project>
